@@ -1,2 +1,2 @@
 # RAB_nRF54LM20_Documents
-Arduino adapter for the nRF54LM20-DK devkit from Nordic Semiconductor.
+Here you may find technical documentation (user manual, application notes) for the adapter board to connect Nordic nRF54LM20-DK devkit and Rutronik System Solutions adapter boards.
